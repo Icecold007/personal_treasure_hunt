@@ -60,7 +60,7 @@
 			<div class="flex justify-center">
 				<button
 					type="submit"
-					class="m-8 w-full max-w-[200px] cursor-pointer rounded-md border-none bg-[#45b2a9] p-4 text-[1.05rem] font-bold text-black transition-colors duration-300 ease-in-out hover:bg-[#368981] sm:p-5"
+					class="m-8 w-full max-w-[150px] cursor-pointer rounded-md border-none bg-[#45b2a9] p-2 text-[1.05rem] font-bold text-black transition-colors duration-300 ease-in-out hover:bg-[#368981] sm:p-1"
 				>
 					Submit
 				</button>
